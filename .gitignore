@@ -65,18 +65,9 @@ buck-out/
 
 
 
-__tests__/
 android/
-app.json
 assets/
-babel.config.js
-index.js
 ios/
-metro.config.js
-package-lock.json
-package.json
-pokedex/
-yarn.lock
 
 
 
